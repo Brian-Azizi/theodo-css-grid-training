@@ -5,7 +5,9 @@
     grid-auto-rows: 75px;
 }
 
-.horizontal {}
+.horizontal {
+    grid-column: span 2;
+}
 
 .vertical {}
 
